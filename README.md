@@ -19,7 +19,6 @@
 - 🤖 Learning Artificial Intelligence & Machine Learning
 - 🐍 Python Developer
 - ⚡ Working with FastAPI, HTML, CSS & JavaScript any Ml library 
-- 📹 Content Creator at CodeUdaan
 - 🌱 Currently improving my AI/ML skills
 
 <h3 align="left">Connect with me:</h3>
